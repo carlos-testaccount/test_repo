@@ -1,5 +1,7 @@
 # test_slack_2
 Repo use for testing purpose
 
+New PR
+
 ![GitHub](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
-![slack](https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg)
+![slack](https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg?v=3&s=64)
